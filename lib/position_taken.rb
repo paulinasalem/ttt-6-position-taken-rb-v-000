@@ -4,3 +4,4 @@ if array[index_number] == " "
 elsif array[index_number] == ""
   return false
 end
+end 
